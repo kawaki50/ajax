@@ -1,0 +1,101 @@
+#galerie
+{
+    width: 600px;
+    border: 2px solid salmon;
+    margin: auto;
+}
+
+#titre
+{
+    width: 80%;
+    height: 20px;
+    background-color: beige;
+    border: 2px solid salmon;
+    margin:10px auto;
+    text-align: center;
+    
+}
+
+#grdPhoto
+{
+    width: 100%;
+    border-top: 2px solid salmon;
+    border-bottom: 2px solid salmon;
+}
+#Gphoto
+{
+    width: 100%;
+    height: 400px;
+}
+
+#Pphotos img
+{
+    width: 100px;
+    cursor: pointer;
+
+}
+
+#Pphotos ul
+{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#btnR
+{
+    position: absolute;
+    right: 5%;
+    top: 50%;
+    transform: translateY(-50%) !important;
+    color: brown;
+    font-size: 2rem;
+}
+
+#btnL
+{
+    position: absolute;
+    left: 5%;
+    top: 50%;
+    transform: translateY(-50%) !important;
+    color: brown;
+    font-size: 2rem;
+}
+
+
+#backGris
+{
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#PGphoto
+{
+    width: 30%;
+}
+
+#btnClose
+{
+    position: absolute;
+    right: 5%;
+    top: 5%;
+    font-size: 3rem;
+    color: white;
+}
+
+#titrePhoto
+{
+    color: white;
+    font-size: 1.5rem;
+}
