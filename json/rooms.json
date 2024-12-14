@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "title": "Official World Cup 2030 Ball",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+      "price": "$50",
+      "rating": 5,
+      "details": [
+        { "icon": "fa fa-soccer-ball-o", "text": "FIFA Approved" },
+        { "icon": "fa fa-globe", "text": "Worldwide Shipping" },
+        { "icon": "fa fa-star", "text": "Top Quality" }
+      ],
+      "description": "The official ball of the World Cup 2030, designed for professional play and top performance."
+    },
+    {
+      "title": "World Cup 2030 Jersey",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+      "price": "$75",
+      "rating": 4,
+      "details": [
+        { "icon": "fa fa-tshirt", "text": "100% Polyester" },
+        { "icon": "fa fa-flag", "text": "All Teams Available" },
+        { "icon": "fa fa-shipping-fast", "text": "Free Shipping" }
+      ],
+      "description": "Support your team with the official World Cup 2030 jersey, available for all participating teams."
+    },
+    {
+      "title": "World Cup 2030 Scarf",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+      "price": "$20",
+      "rating": 4,
+      "details": [
+        { "icon": "fa fa-wind", "text": "Warm and Comfortable" },
+        { "icon": "fa fa-palette", "text": "Vibrant Colors" },
+        { "icon": "fa fa-hand-holding-heart", "text": "Soft Material" }
+      ],
+      "description": "Show your support with this cozy World Cup 2030 scarf, featuring vibrant team colors and logos."
+    },
+    {
+      "title": "World Cup 2030 Cap",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+      "price": "$25",
+      "rating": 4,
+      "details": [
+        { "icon": "fa fa-hat-cowboy", "text": "Adjustable Size" },
+        { "icon": "fa fa-sun", "text": "UV Protection" },
+        { "icon": "fa fa-water", "text": "Water Resistant" }
+      ],
+      "description": "Stay cool and protected with the official World Cup 2030 cap, perfect for sunny match days."
+    },
+    {
+      "title": "World Cup 2030 Mug",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+      "price": "$15",
+      "rating": 5,
+      "details": [
+        { "icon": "fa fa-coffee", "text": "Ceramic" },
+        { "icon": "fa fa-heart", "text": "Dishwasher Safe" },
+        { "icon": "fa fa-tint", "text": "High-Quality Print" }
+      ],
+      "description": "Enjoy your favorite beverage in this stylish World Cup 2030 mug, perfect for every football fan."
+    },
+    {
+      "title": "World Cup 2030 Poster",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1280px-Flag_of_Morocco.svg.png",
+      "price": "$10",
+      "rating": 4,
+      "details": [
+        { "icon": "fa fa-image", "text": "High-Resolution" },
+        { "icon": "fa fa-scroll", "text": "Durable Paper" },
+        { "icon": "fa fa-paint-brush", "text": "Vibrant Print" }
+      ],
+      "description": "Decorate your space with this stunning World Cup 2030 poster, showcasing the tournament's iconic moments."
+    }
+  ]
+}
